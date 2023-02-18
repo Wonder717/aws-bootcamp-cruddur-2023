@@ -9,3 +9,19 @@ THe screenshot of this design is also provided below for easy reference.
 <img width="1158" alt="Screenshot 2023-02-18 at 1 53 15 PM" src="https://user-images.githubusercontent.com/85680026/219869576-f06138e0-0052-4d76-89c2-733f5f45c00c.png">
 
 The logical design(still in progress) can also be viewed via this link  https://lucid.app/lucidchart/f27d222e-95d1-4115-aad0-4de38396e27c/edit?viewport_loc=-2598%2C-1539%2C2522%2C1277%2C0_0&invitationId=inv_893c87c7-36cd-498e-9340-fdae3c61a567
+
+
+I also completed the task on installing aws cli to enable programmatic access to aws resources. I did this in my local terminal on Mac by using the following steps
+
+To install AWS CLI on a Mac, follow these steps:
+
+1. Open the Terminal app on your Mac.
+2. Type the following command to install the AWS CLI using Homebrew package manager:
+ `brew install awscli`
+3. Press Enter to run the command.
+4. Wait for the installation to complete.
+5. Verify that the AWS CLI has been installed by typing the following command in the terminal:
+  `aws --version`
+6. Press Enter to run the command. You should see the version number of the AWS CLI displayed in the output.
+7. To configure your credentials to authenticate your identity you can enter the following command and follow the prompts to enter your access details 
+   `aws configure`
