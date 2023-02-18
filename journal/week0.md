@@ -7,3 +7,5 @@ The conceptual/napkin design for my work can be accessed via this link https://l
 THe screenshot of this design is also provided below for easy reference.
 
 <img width="1158" alt="Screenshot 2023-02-18 at 1 53 15 PM" src="https://user-images.githubusercontent.com/85680026/219869576-f06138e0-0052-4d76-89c2-733f5f45c00c.png">
+
+The logical design(still in progress) can also be viewed via this link https://lucid.app/lucidchart/f27d222e-95d1-4115-aad0-4de38396e27c/edit?viewport_loc=-2598%2C-1539%2C2522%2C1277%2C0_0&invitationId=inv_893c87c7-36cd-498e-9340-fdae3c61a567
