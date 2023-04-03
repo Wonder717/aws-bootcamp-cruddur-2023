@@ -4,6 +4,7 @@ I researched and read a lot more about AWS Cognito for this week after implement
 
 
 **Overview of AWS Cognito**
+
 Amazon Cognito is a user authentication and authorization service offered by Amazon Web Services (AWS). It allows developers to add user sign-up, sign-in, and access control to web and mobile apps. In this report, we will discuss AWS Cognito and how to employ best practices for its usage.
 
 AWS Cognito is a fully managed service that allows developers to authenticate and manage user access to applications. It provides a secure and scalable user directory that can be easily integrated into applications using open standards such as OAuth 2.0, OpenID Connect, and SAML 2.0. The service provides multiple options for user authentication, including email and password, phone number, and social identity providers such as Facebook, Google, and Amazon.
